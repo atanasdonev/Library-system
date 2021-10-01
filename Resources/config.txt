@@ -1,0 +1,3 @@
+jdbc:h2:C:\\\\Users\\\\Atanas\\\\Desktop\\Uni\\\\OOP DB\\\\DATABASE_JAVA\\\\DB;AUTO_SERVER=TRUE
+sa
+sa
